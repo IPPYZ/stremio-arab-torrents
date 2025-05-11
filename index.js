@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 const cheerio = require("cheerio");
 const express = require("express");
 
-const ALLDEBRID_API_KEY = "v8JpzbMJvLfkdmGsAriS"; // <-- هنا تحط API Key حق AllDebrid
+const ALLDEBRID_API_KEY = "v8JpzbMJvLfkdmGsAriS";
 
 const builder = new addonBuilder({
     id: "org.stremio.arab-torrents",
@@ -13,7 +13,7 @@ const builder = new addonBuilder({
     resources: ["stream"],
     types: ["movie"],
     idPrefixes: ["tt"],
-    catalogs: [] // <-- إضافة هذا السطر
+    catalogs: []
 });
 
 builder.defineStreamHandler(async ({ type, id }) => {
@@ -74,19 +74,19 @@ builder.defineStreamHandler(async ({ type, id }) => {
                     });
                 }
             } catch (err) {
-                console.warn("فشل تحميل تورنت:", url);
+                console.warn("⚠️ فشل تحميل تورنت:", url);
             }
         }
 
         return { streams };
     } catch (err) {
-        console.error("فشل جلب الصفحة:", err);
+        console.error("❌ فشل جلب الصفحة:", err);
         return { streams: [] };
     }
 });
 
 const app = express();
-const PORT = 7000;
+const PORT = process.env.PORT || 7000;
 
 const manifest = {
     id: "org.stremio.arab-torrents",
@@ -96,11 +96,11 @@ const manifest = {
     resources: ["stream"],
     types: ["movie"],
     idPrefixes: ["tt"],
-    catalogs: [] // Ensure this is an array
+    catalogs: []
 };
 
 app.get("/manifest.json", (_, res) => {
-    res.json(manifest);  // إرجاع الـ manifest كـ JSON
+    res.json(manifest);
 });
 
 app.get("/stream/:type/:id.json", async (req, res) => {
@@ -109,6 +109,6 @@ app.get("/stream/:type/:id.json", async (req, res) => {
     res.send(result);
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
     console.log(`✅ الإضافة شغّالة على: http://localhost:${PORT}/manifest.json`);
 });
