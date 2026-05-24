@@ -1,0 +1,1426 @@
+[
+  {
+    "id": "1355ea24-b8ce-47c6-9605-47f9a3e65c03",
+    "title": "رائج",
+    "backdropImageUrl": null,
+    "pinToTop": true,
+    "focusGlowEnabled": true,
+    "viewMode": "FOLLOW_HOME",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "94d37c9c-85da-4b14-859d-51226551b97c",
+        "title": "الأكثر رواجًا — أفلام",
+        "coverImageUrl": "https://8upload.com/image/4de4789e12942f85/TRENDING_MOVIES.jpeg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_trending-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "3ba9ab63-0028-4251-827e-d229e7fcacc4",
+        "title": "الأكثر رواجًا — مسلسلات",
+        "coverImageUrl": "https://8upload.com/image/dfe86ec72f1b998d/TRENDING_MOVIES.jpeg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_trending-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "b4e5db1a-5cce-4022-849a-c2519cbfd2ce",
+        "title": "أنمي رائج",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/45b056c8-5721-40e5-bfd8-3cd411dd53a8.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_trending-anime-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_trending-anime-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "c0f08e04-2976-4b6f-b8ea-c86d979b65a9",
+        "title": "Netflix Top 10",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/f367756f-7ee9-4791-a817-0e3393f743ed.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_netflix-top-10-trending-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_netflix-top-10-trending-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "06589932-ee15-494f-990c-fa01e1d88ced",
+        "title": "أطفال رائج",
+        "coverImageUrl": "https://i.postimg.cc/YCdHFrSW/Kids_white.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_trending-kids-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "e3fe4a3b-812f-49d4-b608-cb66d660f6a3",
+        "title": "الأكثر شعبية",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/4eb51ed0-21b8-456d-ae20-1a22384eb4b0.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_box-office-50"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  },
+  {
+    "id": "660e0b1d-b572-42f0-85c0-7a4cdcdbc748",
+    "title": "الأعلى تقييماً",
+    "backdropImageUrl": null,
+    "pinToTop": true,
+    "focusGlowEnabled": true,
+    "viewMode": "FOLLOW_HOME",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "5fd4bad1-8061-4c89-b276-ec07db38236b",
+        "title": "IMDb",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/3e50b9e4-f2b4-476c-bfc7-c25647f9bb47.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_imdb-top-250-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_imdb-top-250-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_trakt-imdb-top-250-tv-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-imdb-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-imdb-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_imdb-moviemeter-top-100"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "ba130b87-837d-4bb7-bbba-184be2e3f6a2",
+        "title": "Rotten Tomatoes — Fresh",
+        "coverImageUrl": "https://pentagram-production.imgix.net/b33a5493-679c-421a-9970-2dfea45a6162/emo_rottentomatoes_01.jpg?auto=compress%2Cformat&crop=entropy&fit=crop&fm=jpg&h=470&q=80&rect=120%2C0%2C2700%2C1688&w=900",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_100-on-rottentomatoes-com"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_certifiedfreshmovies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_latest-certified-fresh-tv"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "653018e5-c07d-4aaf-a69b-14178cc567db",
+        "title": "مختارات",
+        "coverImageUrl": "https://i.postimg.cc/hjj2Tq2m/TOP-RATED.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_the-100-best-movies-of-the-21st-century-ny-times"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_the-100-best-movies-of-the-21st-century-ny-times-reader-s-edition"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_high-rating-tv-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_1Rhi"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_jBVZw"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_kubrick23_best-underrated-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_2Dzwo"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_pDmkw"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "6b3a7923-3236-45cc-aba9-d3f18eea9866",
+        "title": "Letterboxd — أفضل 250 فيلم",
+        "coverImageUrl": "https://i.postimg.cc/L6WSSJLw/LB-TOP-500-FILMS.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_8HjM"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "7e3b75af-ae6b-4ea4-93e7-63694d1b2a86",
+        "title": "Criterion Collection",
+        "coverImageUrl": "https://i.pinimg.com/474x/f6/1d/18/f61d18332f2bfc4573e329fe072bb0f9.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_1DvE0"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "d42248f8-3cba-40c2-897e-6016c6fc357a",
+        "title": "A24",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5fde56a8-49c4-4543-9a9f-2c8752e1276d.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_L01gS"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "e740bd5f-9577-4c52-9c06-9df0830acf24",
+        "title": "Studio Ghibli",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/0b837dd0-055a-4c6a-a421-750206d22879.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_qxBl2"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "198ccc53-828a-4393-8032-6a59e1b12f49",
+        "title": "كلاسيكيات كالت",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/classics-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_pterisaur_cult-classics"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_californian_tcm-underground"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  },
+  {
+    "id": "0e6f5864-af65-4241-bea2-c174fa14139d",
+    "title": "التصنيفات",
+    "backdropImageUrl": null,
+    "pinToTop": true,
+    "focusGlowEnabled": true,
+    "viewMode": "FOLLOW_HOME",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "ae7c9210-22c0-4633-a90e-6cabef7788c7",
+        "title": "أكشن",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/action-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-action-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-action-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_best-heist-movies-of-all-time"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "82e77742-7b7e-47a3-8044-4942017b705c",
+        "title": "كوميدي",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/comedy-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-comedy-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-comedy-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_lish408_stand-up-comedy-specials"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_top-50-parody-movies-of-all-time"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "4178c54f-2725-4b3e-b695-ac70b93eaf2a",
+        "title": "دراما",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/drama-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-drama-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-drama-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_based-on-or-inspired-by-a-true-story"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_top-asian-drama"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "fe51c9b4-c02f-4d16-8269-85ab59c9a922",
+        "title": "رعب",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/horror-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-horror-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-horror-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_must-see-modern-horror"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_25-best-horror-movies-of-the-21st-century-the-hollywood-reporter"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_2VQVG"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_halloween-movies-the-best-of-all-time"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_RVKr0"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "b485cba1-9164-4d13-b42c-60d4f24465ef",
+        "title": "إثارة",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/thriller-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-thriller-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-thriller-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_mindfuck-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_jazz-rae-infinityg_psychological-thriller-movies-arizlist"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "6ed23d06-fa3f-4ce1-aeaf-77028f9ec126",
+        "title": "خيال علمي",
+        "coverImageUrl": "https://i.ibb.co/dz508GQ/Science-Fiction.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-sci-fi-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-sci-fi-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_outer-space-space-exploration-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_fSeHs"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "940968f9-98d3-43fa-96d2-a96fa6750b20",
+        "title": "جريمة",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/crime-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_latest-hd-crime-movies-top-rated-from-1980-to-today"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_crime-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_crime-docuseries"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_hdlists_true-crime-documentaries"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_lish408_true-crime-documentary-series-film"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "14a58a43-442b-498d-8453-61af3ab66552",
+        "title": "وثائقي",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/documentary-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-documentary-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-documentary-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_vice-original-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_top-documentary-tv-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_a925sw_docuwiki-documentary-series"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_paranormal-docuseries"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "16fd1b3e-1182-4dcf-a16f-bbf48b74904e",
+        "title": "غموض",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5c537c81-e7e0-4626-ae01-81be3c3498e0.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_latest-hd-mystery-movies-top-rated-from-1980-to-today"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "598ef562-b64c-48a4-aa93-04d97ec2b893",
+        "title": "رومانسي",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/romance-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_romantic-comedies-rotten-tomatoes-top-rated"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_romance-comedy-k-dramas"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "8fdd4079-8c34-4c7a-9455-94ab659d094a",
+        "title": "ويسترن",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/westerns-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_48fds"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "6d9251ac-9be6-49c3-bdc9-a71e3edbd671",
+        "title": "رسوم متحركة",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/animation-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_disney-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_movistapp_pixar-animation-studios"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_dreamworks-movie-collection"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_grendelcrusher_dc-animated-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-animated-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-animated-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_latest-hd-animated-movies-from-1980-to-today"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_1jMxg"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "082f1c5d-c060-40c8-816b-969493d7a477",
+        "title": "كيدز وعائلي",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/kids-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_sunday-afternoon-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_97SNM"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "letterboxd_4XYnu"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_halloween-movies-for-kids"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_top-watched-movies-of-the-week-for-kids"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_christmas-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "7cc4a727-bd2f-43d8-917d-5b2f93efd8cb",
+        "title": "برامج الواقع",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/reality-wide.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_latest-reality-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_popular-reality-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_hatmarron2_reality"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_a925sw_game-shows"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  },
+  {
+    "id": "e990d504-9da6-4849-a309-abe43d9bc611",
+    "title": "خدمات البث",
+    "backdropImageUrl": null,
+    "pinToTop": true,
+    "focusGlowEnabled": true,
+    "viewMode": "FOLLOW_HOME",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "9e498fcd-dffb-45ea-8bd3-dd49055a59fc",
+        "title": "Netflix",
+        "coverImageUrl": "https://i.pinimg.com/originals/bb/74/04/bb74046420c4c992b8cabc6e667abe40.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_latest-netflix-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_latest-netflix-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_top-netflix-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_top-netflix-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_netflix-reality"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_bpsim_netflix-ended-shows-or-cancelled"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "2dd8b419-0cbb-4ca8-ba90-a0d66609a923",
+        "title": "Disney+",
+        "coverImageUrl": "https://media1.tenor.com/m/qYlalc1KzQUAAAAC/disney-disney-plus.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_latest-disney-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_latest-disney-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_top-disney-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_top-disney-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "9946856a-e838-4d16-9001-593e6b5a7dbd",
+        "title": "Prime Video",
+        "coverImageUrl": "https://media1.tenor.com/m/T7L_NCdPIvAAAAAC/prime-video.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_latest-amazon-prime-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_latest-amazon-prime-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_top-amazon-prime-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_top-amazon-prime-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "79d5e2e0-b46f-41b4-a3b7-de1aecd8191a",
+        "title": "HBO Max",
+        "coverImageUrl": "https://media1.tenor.com/m/pjHZN-n1kvkAAAAC/hbo-max.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_latest-hbo-max-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_latest-hbo-max-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_top-hbo-max-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_top-hbo-max-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "2d618d77-ec68-49c0-8a1e-d2e6ab8b9077",
+        "title": "Apple TV+",
+        "coverImageUrl": "https://media1.tenor.com/m/1FiEEnGTgUcAAAAC/apple-appletv.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_latest-apple-tv-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_latest-apple-tv-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_top-apple-tv-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_top-apple-tv-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "915b536e-ea39-42c7-80af-dec8c6c72d48",
+        "title": "Paramount+",
+        "coverImageUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/Paramount.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_latest-paramount-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_latest-paramount-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_top-paramount-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_top-paramount-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "6eed2726-6b00-4259-a4c0-bc822051696f",
+        "title": "Hulu",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/c237c4b2-875e-4d54-802a-42a4316ff7ab.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_latest-hulu-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_latest-hulu-shows"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_top-hulu-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_snoak_top-hulu-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "dcc7a9ca-42a6-42d6-a953-ac0911ca670c",
+        "title": "Peacock",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/b921ca21-fbc8-4d43-885b-62b07f814c58.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_peacock-original-movies"
+          },
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_trackertrack_latest-peacock-starz-amc"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "93332fe7-fd10-4748-9f7d-9394f46abd9e",
+        "title": "Starz",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/7ae791e0-5329-4c3f-8a95-d6b289b10007.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "traktpublic_trackertrack_latest-peacock-starz-amc"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "914b38c4-b631-4b7b-a11e-b4e4306dc1c0",
+        "title": "Discovery+",
+        "coverImageUrl": "https://image2url.com/r2/default/gifs/1775848733439-9069f58a-c681-4d74-97fb-1fdf3a71b49f.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_discovery-original-tv-shows"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "4b24eeb6-9687-42fd-b1ac-3d0abea49e4d",
+        "title": "Showtime",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/2e695a92-80ab-4fd4-9423-61a63d4a4fea.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_showtime-uqr6tg3h3k"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  },
+  {
+    "id": "62430721-ffad-45e5-9119-6a75184d7f19",
+    "title": "حقب زمنية",
+    "backdropImageUrl": null,
+    "pinToTop": true,
+    "focusGlowEnabled": true,
+    "viewMode": "FOLLOW_HOME",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "2db2e0d8-97e1-4b2a-bccc-d77ea681e575",
+        "title": "السبعينات",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/d429d1b3-5a9b-4301-afc8-54c1bd98bdf5.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-1970s-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "b7a10433-4c72-4823-ac28-0b64a0a22b1c",
+        "title": "الثمانينات",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/95a51d21-f972-4b8b-a9b3-8204d333e1d4.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-1980s-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "9e1ca72e-a527-4888-9740-5fac224721c1",
+        "title": "التسعينات",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/b46e6503-a0fb-41e8-a7c2-ad95f0428c5f.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-1990s-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "a585d0cd-6b99-42d4-957b-db49da73f563",
+        "title": "الألفينات",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/fb1d6287-80b2-439b-980b-15f8e37146b2.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-2000s-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "05d58e7b-702c-4adc-a6e0-16dad0c58df8",
+        "title": "2010s",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/943f7834-91c5-41ce-859c-0563053d6183.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-2010s-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "294d4444-b7eb-4bbd-bc86-72584b3252e1",
+        "title": "2020s",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/99a7c210-5bd3-4520-9641-127c1e78bb3b.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-2020s-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "ef740ad5-867a-4dd3-b33d-ec221ac21d6e",
+        "title": "2025",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/49856d3a-8c9b-4250-88de-7359131415ad.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_snoak_popular-2025-movies"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  },
+  {
+    "id": "52199199-9913-4929-9cee-cc2d23f39208",
+    "title": "فرانشايز",
+    "backdropImageUrl": null,
+    "pinToTop": true,
+    "focusGlowEnabled": true,
+    "viewMode": "FOLLOW_HOME",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "7d7df34d-c899-4fda-99c1-29e368d28ca7",
+        "title": "Marvel — أفلام",
+        "coverImageUrl": "https://giffiles.alphacoders.com/127/12700.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_donxy_marvel-cinematic-universe"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "c9631a93-eaa0-4d12-a48d-801647134fb8",
+        "title": "Marvel — مسلسلات",
+        "coverImageUrl": "https://images.thedirect.com/media/article_full/mcu-shows-2025.jpg?imgeng=/cmpr_60/w_1280",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "series",
+            "catalogId": "mdblisturl_marvel-cinematic-universe-mcu"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "fab22c0b-2861-4dd7-b0e9-b0d93ce40913",
+        "title": "DC Universe",
+        "coverImageUrl": "https://i.pinimg.com/originals/cd/4e/19/cd4e195405cbaed5a3e5b95708a41105.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_ljransom_dc-universe-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "fbe37df0-0284-43a7-9922-1e1e422dc460",
+        "title": "Star Wars",
+        "coverImageUrl": "https://images.steamusercontent.com/ugc/2258055576432666610/F333CDBF79C5E51910C86563B3D8F0D91E717B48/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_grendelcrusher_star-wars-chronological-order-new-canon"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "8f2ebaab-051e-497f-b86e-500865e31017",
+        "title": "Lord of the Rings",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/e530f209-8c68-4a37-9ba6-c52d2f46e3be.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_anihilitus_middle-earth-collection"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "e00b659f-5b1e-4384-a0e2-a7cbdc05acc4",
+        "title": "Harry Potter",
+        "coverImageUrl": "https://i.ibb.co/dsV0wJ6H/1775948939458-acbed4cc-a50a-4794-aa1f-72666bdf6467.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "traktpublic_planetjimbo_wizarding-world-collection"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "07ba2bfb-0e34-41e5-9bcc-4357c660971b",
+        "title": "James Bond",
+        "coverImageUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdnc3U1cW92ODFqeWFrNGIzY2FpYW53NHN6czk3bjZ3ZzQ5cmRnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nu4DN4nKos3m0/giphy.gif",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_james-bond-movies"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "9637be53-19f2-47f4-86c3-256e9d08877a",
+        "title": "Godzilla",
+        "coverImageUrl": "https://i.ibb.co/zHLFjg9N/x.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "ar.stremiolab.collections",
+            "type": "movie",
+            "catalogId": "mdblisturl_best-ranked-godzilla-movies"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  }
+]
